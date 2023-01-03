@@ -42,9 +42,9 @@ do {
 } while (i<10);*/
 let i=0;
 var array=[1,2,3,4];
-//do while
+//do while loop
 do {
-    console.log(array[i]);
+     console.log(array[i]);
     i++;
 
 } while (i<4);
